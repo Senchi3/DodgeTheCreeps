@@ -17,4 +17,5 @@ mono_crash.*.json
 
 # Custom
 builds/
-.idea/
+.idea/*
+
